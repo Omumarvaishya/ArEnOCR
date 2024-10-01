@@ -182,10 +182,7 @@ For more information, visit instalation [guide](https://docs.google.com/document
         <img src="/imgs/perf.drawio.png" alt="CPU-Performance" width="800"/>
     </div>
 
-
-    <div style="text-align: center; background-color: white; padding: 10px;">
-        <img src="imgs/detailed_gpu_performance_graph.drawio.png" alt="GPU-Performance" width="1000"/>
-    </div>
+    *To Acheive greate speed GPU is Recomended*
     
 
 
