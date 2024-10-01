@@ -1,6 +1,8 @@
 # Arabic Optical Character Recognition (OCR) System
 
-![Company Logo](/imgs/astc_logo.jpeg)
+<div style="text-align: center; background-color: white; padding: 10px;">
+    <img src="/imgs/astc_logo.jpeg" alt="Arabic OCR Architecture" width="800"/>
+</div>
 
 ### Overview
 ---------------------------------------
