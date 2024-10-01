@@ -9,6 +9,7 @@ The Arabic Optical Character Recognition (OCR) system is a state-of-the-art solu
 In today's fast-paced business environment, the ability to convert physical documents into editable and searchable formats is invaluable. Our OCR system is designed 
 to enhance operational efficiency, streamline workflows, and drive innovation across various sectors.
 
+
 #### Key Features
 ---
 - **High Accuracy and Robust Performance**
@@ -84,6 +85,7 @@ to enhance operational efficiency, streamline workflows, and drive innovation ac
     By adopting cutting-edge OCR technology, organizations position themselves ahead of competitors who may still rely on manual processes, 
     leading to improved customer satisfaction and retention.
 
+
 #### Use Cases
 - **Education Sector**
 
@@ -137,6 +139,7 @@ bash
 
     Upload Your Document: Access the user interface through your browser and upload your scanned document. Click on "Start OCR" to begin the text recognition process.
 
+
 ### Performance Metrics
 - **Accuracy**
 
@@ -154,6 +157,7 @@ bash
     | Supported Languages     | Arabic, English |
     | Supported Formats      | JPEG, PNG, bmp, jpeg, PDF |
 
+
 #### License
 ---
 
@@ -168,7 +172,8 @@ For further inquiries, feedback, or support, please contact us at:
     Email: info@astc.com.s
     Website: astc.com.sa
 
-Conclusion
 
+#### Conclusion
+____
 Our Arabic OCR system represents a transformative solution for organizations looking to optimize their document processing capabilities. By embracing this technology, 
 businesses can unlock new efficiencies, enhance accuracy, and drive innovation. We invite you to explore our OCR solution and discover how it can meet your unique business needs.
