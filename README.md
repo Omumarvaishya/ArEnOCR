@@ -119,7 +119,7 @@ This method involves manually installing the necessary components and configurin
 You will need to have Python and the required libraries installed on your server. Detailed instructions for installing dependencies 
 and configuring the environment are provided in our documentation. This option is ideal for advanced users who desire greater control 
 over their setup, allowing for customization and optimization based on specific requirements.
-For more information, visit instalation guide [guide]([http://github.com](https://docs.google.com/document/d/16foVHJcoe3Fr8KcBwTxgIQtLBjyItLgj/edit)).
+For more information, visit instalation [guide](https://docs.google.com/document/d/16foVHJcoe3Fr8KcBwTxgIQtLBjyItLgj/edit).
 
 - **Docker Setup**
 
