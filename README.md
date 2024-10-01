@@ -20,7 +20,7 @@ The architecture of our Arabic OCR system consists of several key components:
 5. **Database Management**: Secure storage of user data, processed documents, and OCR results for efficient retrieval and management.
 6. **API Integration**: Facilitates integration with other applications, enabling a wide range of use cases for document management and data extraction.
 <div style="text-align: center;">
-    <img src="/imgs/ocr_arch.drawio.png" alt="Description of the image" width="500"/>
+    <img src="/imgs/ocr_arch.drawio.png" alt="Arabic OCR Architecture" width="800"/>
 </div>
 
 For more detailed architecure and app over view please refer to [Documentation](https://docs.google.com/document/d/1nDONcbRd_o0o2B_7mmGKbA6OMx-8L-DBioOv122eSZE/edit#heading=h.gjdgxs)
