@@ -27,11 +27,12 @@ The architecture of our Arabic OCR system consists of several key components:
 </div>
 
 
-For more detailed architecure and app over view please refer to [Documentation](https://docs.google.com/document/d/1nDONcbRd_o0o2B_7mmGKbA6OMx-8L-DBioOv122eSZE/edit#heading=h.gjdgxs)
+For more detailed architecure and app over-view please refer to [Documentation](https://docs.google.com/document/d/1nDONcbRd_o0o2B_7mmGKbA6OMx-8L-DBioOv122eSZE/edit#heading=h.gjdgxs)
 
-For testing our ocr benchmark buisness can visit our demo ocr app with very basic feture most of the features are kept hiddent.[tets](ocr.astc.sa/test).
+For testing our ocr benchmark buisneses can visit our demo ocr-app which is limited and having basic feature most of the features are kept hiddent
+.[tets](ocr.astc.sa/test).
 
-Also for detailed overview of our system you can visit our youtube channel to explore all the features[video]().
+For detailed overview of our system you can visit our youtube channel to explore all the features[video]().
 
 
 #### Key Features
