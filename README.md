@@ -29,6 +29,10 @@ The architecture of our Arabic OCR system consists of several key components:
 
 For more detailed architecure and app over view please refer to [Documentation](https://docs.google.com/document/d/1nDONcbRd_o0o2B_7mmGKbA6OMx-8L-DBioOv122eSZE/edit#heading=h.gjdgxs)
 
+For testing our ocr benchmark buisness can visit our demo ocr app with very basic feture most of the features are kept hiddent.[tets](ocr.astc.sa/test).
+
+Also for detailed overview of our system you can visit our youtube channel to explore all the features[video]().
+
 
 #### Key Features
 ---
@@ -159,18 +163,21 @@ For more information, visit instalation [guide](https://docs.google.com/document
 - **Accuracy**
 
     Text Recognition Accuracy: Achieves an impressive accuracy rate of 95%, ensuring trustworthy results across diverse document formats.
-
-- **Speed**
-
-    Processing Time: Capable of processing documents containing 1,000 words in just 5 seconds, significantly boosting productivity.
-
-
+  
     | Metric                | Value          |
     |-----------------------|----------------|
     | Recognition Accuracy   | 97%            |
     | Processing Speed       | 2000 characters/sec |
     | Supported Languages     | Arabic, English |
     | Supported Formats      | JPEG, PNG, bmp, jpeg, PDF |
+
+
+- **Speed**
+
+    Processing Time: Capable of processing documents containing 1,000 words in just 5 seconds, significantly boosting productivity.
+
+
+    
 
 
 #### License
