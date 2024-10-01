@@ -1,6 +1,6 @@
 # Arabic Optical Character Recognition (OCR) System
 
-![Company Logo](/astc_logo.png)
+![Company Logo](/astc_logo.jpeg)
 
 ### Overview
 ---------------------------------------
