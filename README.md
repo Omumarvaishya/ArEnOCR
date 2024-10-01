@@ -5,9 +5,9 @@
 ### Overview
 ---------------------------------------
 
-    The Arabic Optical Character Recognition (OCR) system is a state-of-the-art solution that transforms printed or handwritten Arabic text into digital formats. 
-    In today's fast-paced business environment, the ability to convert physical documents into editable and searchable formats is invaluable. Our OCR system is designed 
-    to enhance operational efficiency, streamline workflows, and drive innovation across various sectors.
+The Arabic Optical Character Recognition (OCR) system is a state-of-the-art solution that transforms printed or handwritten Arabic text into digital formats. 
+In today's fast-paced business environment, the ability to convert physical documents into editable and searchable formats is invaluable. Our OCR system is designed 
+to enhance operational efficiency, streamline workflows, and drive innovation across various sectors.
 
 #### Key Features
 ---
@@ -147,33 +147,28 @@ bash
     Processing Time: Capable of processing documents containing 1,000 words in just 5 seconds, significantly boosting productivity.
 
 
-| Metric                | Value          |
-|-----------------------|----------------|
-| Recognition Accuracy   | 97%            |
-| Processing Speed       | 2000 characters/sec |
-| Supported Languages     | Arabic, English |
-| Supported Formats      | JPEG, PNG, bmp, jpeg, PDF |
+    | Metric                | Value          |
+    |-----------------------|----------------|
+    | Recognition Accuracy   | 97%            |
+    | Processing Speed       | 2000 characters/sec |
+    | Supported Languages     | Arabic, English |
+    | Supported Formats      | JPEG, PNG, bmp, jpeg, PDF |
 
-License
+#### License
+---
 
-This project is licensed under the Apache License 2.0. Users are required to provide attribution for any modifications made to the codebase and must seek permission for any commercial use, ensuring compliance with our licensing terms.
-Contributing
+    This project is licensed under the Apache License 2.0. Users are required to provide attribution for any modifications made to the codebase and must seek permission for 
+    any commercial use, ensuring compliance with our licensing terms.
 
-We welcome contributions to improve our Arabic OCR system. To get involved, please follow these steps:
 
-    Fork the repository.
-    Create a new branch for your feature or bug fix.
-    Make your changes and commit them.
-    Submit a pull request detailing your changes.
-
-Contact Information
-
+#### Contact Information
+_____
 For further inquiries, feedback, or support, please contact us at:
 
-    Email: your-email@example.com
-    Phone: +1234567890
-    Website: Your Company Website
+    Email: info@astc.com.s
+    Website: astc.com.sa
 
 Conclusion
 
-Our Arabic OCR system represents a transformative solution for organizations looking to optimize their document processing capabilities. By embracing this technology, businesses can unlock new efficiencies, enhance accuracy, and drive innovation. We invite you to explore our OCR solution and discover how it can meet your unique business needs.
+Our Arabic OCR system represents a transformative solution for organizations looking to optimize their document processing capabilities. By embracing this technology, 
+businesses can unlock new efficiencies, enhance accuracy, and drive innovation. We invite you to explore our OCR solution and discover how it can meet your unique business needs.
