@@ -1,64 +1,67 @@
 # Arabic Optical Character Recognition (OCR) System
+---
 
 ![Company Logo](images/logo.png)
 
 ### Overview
+---
 
 The Arabic Optical Character Recognition (OCR) system is a state-of-the-art solution that transforms printed or handwritten Arabic text into digital formats. 
 In today's fast-paced business environment, the ability to convert physical documents into editable and searchable formats is invaluable. Our OCR system is designed 
 to enhance operational efficiency, streamline workflows, and drive innovation across various sectors.
 
 #### Key Features
+---
 
 
-- High Accuracy and Robust Performance
-
-Our OCR technology employs advanced deep learning algorithms trained on extensive datasets, ensuring exceptional accuracy in recognizing Arabic characters, words, and phrases.
-This capability minimizes errors, enabling businesses to rely on the system for critical document processing tasks.
-
-- Multilingual Support
-
-While focused on Arabic, our OCR solution supports multiple languages, making it versatile for organizations operating in multilingual environments. 
-This feature is particularly beneficial for businesses with diverse customer bases or international operations.
-
-- User-Friendly Interface
-
-Designed for simplicity, our intuitive interface allows users of all technical backgrounds to easily navigate the system. Users can upload documents with just a few clicks, 
-initiate the OCR process, and access the extracted text promptly.
-
-- Batch Processing Capability
-
-Our OCR system supports batch processing, allowing users to upload and process multiple documents simultaneously. This feature is crucial for organizations with large volumes of documents,
-significantly speeding up data extraction tasks.
-
-- Extensive Format Compatibility
-
-The system can handle a variety of document formats, including:
-
-    PDF
-    JPEG
-    PNG
-    TIFF
-    BMP
-
-This flexibility ensures that users can work with different document types without worrying about compatibility issues.
-
-- Advanced Data Extraction
-
-The OCR system not only recognizes text but also extracts relevant metadata, such as date, author, and document type. This additional data can be invaluable for categorization and organization.
-
-- Seamless Integration with Existing Workflows
-
-Our solution can be easily integrated with popular content management systems (CMS) and databases. This capability allows organizations to enhance their current workflows without disrupting existing processes.
-
-- Security and Compliance
-
-We prioritize the security of your documents and data. Our OCR system adheres to industry-standard security protocols, ensuring that sensitive information remains confidential and compliant with regulations.
-
-- Customizable Output Formats
-
-Users can choose from various output formats, including plain text, CSV, and JSON. This customization allows businesses to align the output with their specific data processing requirements.
-and meanwhile the content will be archieved to database for latter on uses and optimizations.
+    - High Accuracy and Robust Performance
+    
+    Our OCR technology employs advanced deep learning algorithms trained on extensive datasets, ensuring exceptional accuracy in recognizing Arabic characters, words, and phrases.
+    This capability minimizes errors, enabling businesses to rely on the system for critical document processing tasks.
+    
+    - Multilingual Support
+    
+    While focused on Arabic, our OCR solution supports multiple languages, making it versatile for organizations operating in multilingual environments. 
+    This feature is particularly beneficial for businesses with diverse customer bases or international operations.
+    
+    - User-Friendly Interface
+    
+    Designed for simplicity, our intuitive interface allows users of all technical backgrounds to easily navigate the system. Users can upload documents with just a few clicks, 
+    initiate the OCR process, and access the extracted text promptly.
+    
+    - Batch Processing Capability
+    
+    Our OCR system supports batch processing, allowing users to upload and process multiple documents simultaneously. This feature is crucial for organizations with large volumes of documents,
+    significantly speeding up data extraction tasks.
+    
+    - Extensive Format Compatibility
+    
+    The system can handle a variety of document formats, including:
+    
+        PDF
+        JPEG
+        PNG
+        TIFF
+        BMP
+    
+    This flexibility ensures that users can work with different document types without worrying about compatibility issues.
+    
+    - Advanced Data Extraction
+    
+    The OCR system not only recognizes text but also extracts relevant metadata, such as date, author, and document type. This additional data can be invaluable for categorization and organization.
+    
+    - Seamless Integration with Existing Workflows
+    
+    Our solution can be easily integrated with popular content management systems (CMS) and databases. This capability allows organizations to enhance their current workflows without disrupting existing processes.
+    
+    - Security and Compliance
+    
+    We prioritize the security of your documents and data. Our OCR system adheres to industry-standard security protocols, ensuring that sensitive information remains confidential and compliant with regulations.
+    
+    - Customizable Output Formats
+    
+    Users can choose from various output formats, including plain text, CSV, and JSON. This customization allows businesses to align the output with their specific data processing requirements.
+    and meanwhile the content will be archieved to database for latter on uses and optimizations.
 
 
 #### Benefits to Businesses
