@@ -12,7 +12,7 @@ In today's fast-paced business environment, the ability to convert physical docu
 to enhance operational efficiency, streamline workflows, and drive innovation across various sectors.
 
 
-#### Architecture Overview
+### Architecture Overview
 ---------------------
 The architecture of our Arabic OCR system consists of several key components:
 1. **Input Module**: Handles document formats, pre-processing tasks, and image enhancement.
@@ -87,7 +87,7 @@ For detailed overview of our system you can visit our youtube channel to explore
     and meanwhile the content will be archieved to database for latter on uses and optimizations.
 
 
-#### Benefits to Businesses
+### Benefits to Businesses
 ----
 - **Cost Reduction**
 
@@ -111,7 +111,7 @@ For detailed overview of our system you can visit our youtube channel to explore
     leading to improved customer satisfaction and retention.
 
 
-#### Use Cases
+### Use Cases
 - **Education Sector**
 
     Document Digitization: Transform textbooks, academic papers, and administrative records into digital formats, making them easily accessible to students and faculty.
@@ -133,7 +133,7 @@ For detailed overview of our system you can visit our youtube channel to explore
     Compliance: Ensure adherence to regulatory requirements by maintaining accurate and accessible records.
 
 
-#### Getting Started
+### Getting Started
 _____
 Installation Instructions
 
@@ -181,18 +181,20 @@ For more information, visit instalation [guide](https://docs.google.com/document
     <div style="text-align: center; background-color: white; padding: 10px;">
         <img src="/imgs/perf.drawio.png" alt="CPU-Performance" width="800"/>
     </div>
-
+    <div style="text-align: center; background-color: white; padding: 10px;">
+        <img src="imgs/detailed_gpu_performance_graph.drawio.png" alt="GPU-Performance" width="800"/>
+    </div>
     
 
 
-#### License
+### License
 ---
 
     This project is licensed under the Apache License 2.0. Users are required to provide attribution for any modifications made to the codebase and must seek permission for 
     any commercial use, ensuring compliance with our licensing terms.
 
 
-#### Contact Information
+### Contact Information
 _____
 For further inquiries, feedback, or support, please contact us at:
 
@@ -200,7 +202,7 @@ For further inquiries, feedback, or support, please contact us at:
     Website: astc.com.sa
 
 
-#### Conclusion
+### Conclusion
 ____
 Our Arabic OCR system represents a transformative solution for organizations looking to optimize their document processing capabilities. By embracing this technology, 
 businesses can unlock new efficiencies, enhance accuracy, and drive innovation. We invite you to explore our OCR solution and discover how it can meet your unique business needs.
