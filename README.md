@@ -13,54 +13,54 @@ to enhance operational efficiency, streamline workflows, and drive innovation ac
 ---
 
 
-    - High Accuracy and Robust Performance
-    
-    Our OCR technology employs advanced deep learning algorithms trained on extensive datasets, ensuring exceptional accuracy in recognizing Arabic characters, words, and phrases.
-    This capability minimizes errors, enabling businesses to rely on the system for critical document processing tasks.
-    
-    - Multilingual Support
-    
-    While focused on Arabic, our OCR solution supports multiple languages, making it versatile for organizations operating in multilingual environments. 
-    This feature is particularly beneficial for businesses with diverse customer bases or international operations.
-    
-    - User-Friendly Interface
-    
-    Designed for simplicity, our intuitive interface allows users of all technical backgrounds to easily navigate the system. Users can upload documents with just a few clicks, 
-    initiate the OCR process, and access the extracted text promptly.
-    
-    - Batch Processing Capability
-    
-    Our OCR system supports batch processing, allowing users to upload and process multiple documents simultaneously. This feature is crucial for organizations with large volumes of documents,
-    significantly speeding up data extraction tasks.
-    
-    - Extensive Format Compatibility
-    
-    The system can handle a variety of document formats, including:
-    
-        PDF
-        JPEG
-        PNG
-        TIFF
-        BMP
-    
-    This flexibility ensures that users can work with different document types without worrying about compatibility issues.
-    
-    - Advanced Data Extraction
-    
-    The OCR system not only recognizes text but also extracts relevant metadata, such as date, author, and document type. This additional data can be invaluable for categorization and organization.
-    
-    - Seamless Integration with Existing Workflows
-    
-    Our solution can be easily integrated with popular content management systems (CMS) and databases. This capability allows organizations to enhance their current workflows without disrupting existing processes.
-    
-    - Security and Compliance
-    
-    We prioritize the security of your documents and data. Our OCR system adheres to industry-standard security protocols, ensuring that sensitive information remains confidential and compliant with regulations.
-    
-    - Customizable Output Formats
-    
-    Users can choose from various output formats, including plain text, CSV, and JSON. This customization allows businesses to align the output with their specific data processing requirements.
-    and meanwhile the content will be archieved to database for latter on uses and optimizations.
+- High Accuracy and Robust Performance
+
+Our OCR technology employs advanced deep learning algorithms trained on extensive datasets, ensuring exceptional accuracy in recognizing Arabic characters, words, and phrases.
+This capability minimizes errors, enabling businesses to rely on the system for critical document processing tasks.
+
+- Multilingual Support
+
+While focused on Arabic, our OCR solution supports multiple languages, making it versatile for organizations operating in multilingual environments. 
+This feature is particularly beneficial for businesses with diverse customer bases or international operations.
+
+- User-Friendly Interface
+
+Designed for simplicity, our intuitive interface allows users of all technical backgrounds to easily navigate the system. Users can upload documents with just a few clicks, 
+initiate the OCR process, and access the extracted text promptly.
+
+- Batch Processing Capability
+
+Our OCR system supports batch processing, allowing users to upload and process multiple documents simultaneously. This feature is crucial for organizations with large volumes of documents,
+significantly speeding up data extraction tasks.
+
+- Extensive Format Compatibility
+
+The system can handle a variety of document formats, including:
+
+    PDF
+    JPEG
+    PNG
+    TIFF
+    BMP
+
+This flexibility ensures that users can work with different document types without worrying about compatibility issues.
+
+- Advanced Data Extraction
+
+The OCR system not only recognizes text but also extracts relevant metadata, such as date, author, and document type. This additional data can be invaluable for categorization and organization.
+
+- Seamless Integration with Existing Workflows
+
+Our solution can be easily integrated with popular content management systems (CMS) and databases. This capability allows organizations to enhance their current workflows without disrupting existing processes.
+
+- Security and Compliance
+
+We prioritize the security of your documents and data. Our OCR system adheres to industry-standard security protocols, ensuring that sensitive information remains confidential and compliant with regulations.
+
+- Customizable Output Formats
+
+Users can choose from various output formats, including plain text, CSV, and JSON. This customization allows businesses to align the output with their specific data processing requirements.
+and meanwhile the content will be archieved to database for latter on uses and optimizations.
 
 
 #### Benefits to Businesses
@@ -86,27 +86,28 @@ By adopting cutting-edge OCR technology, organizations position themselves ahead
 leading to improved customer satisfaction and retention.
 
 #### Use Cases
-1. Education Sector
+- Education Sector
 
     Document Digitization: Transform textbooks, academic papers, and administrative records into digital formats, making them easily accessible to students and faculty.
     Research: Quickly extract data from research publications for analysis and reporting.
 
-2. Healthcare Industry
+- Healthcare Industry
 
     Patient Records: Convert handwritten notes and printed documents into electronic health records, facilitating easier access to patient information.
     Medical Billing: Automate the extraction of data from invoices and insurance claims to streamline billing processes.
 
-3. Financial Services
+ -Financial Services
 
     Invoice Processing: Automate data extraction from invoices and receipts, improving accuracy in financial reporting and reducing manual errors.
     Data Analysis: Extract relevant financial data for analysis and forecasting.
 
-4. Legal Industry
+ -Legal Industry
 
     Contract Management: Digitize contracts and legal documents for easier retrieval and reference, enhancing legal research capabilities.
     Compliance: Ensure adherence to regulatory requirements by maintaining accurate and accessible records.
 
-Getting Started
+
+#### Getting Started
 Installation Instructions
 
 To set up the Arabic OCR system on your local machine, follow these steps:
