@@ -109,35 +109,24 @@ to enhance operational efficiency, streamline workflows, and drive innovation ac
 
 
 #### Getting Started
+_____
 Installation Instructions
 
-To set up the Arabic OCR system on your local machine, follow these steps:
+- **Direct Server Installation**
 
-    Clone the Repository:
+For users who prefer a more traditional approach, direct server installation is available for setting up the Arabic OCR system. 
+This method involves manually installing the necessary components and configuring the server to run the OCR system. 
+You will need to have Python and the required libraries installed on your server. Detailed instructions for installing dependencies 
+and configuring the environment are provided in our documentation. This option is ideal for advanced users who desire greater control 
+over their setup, allowing for customization and optimization based on specific requirements.
 
-    bash
+- **Docker Setup**
 
-git clone https://github.com/yourusername/your-repo.git
-
-Navigate to the Project Directory:
-
-bash
-
-cd your-repo
-
-Install Required Dependencies: Ensure you have Python installed, then run:
-
-bash
-
-pip install -r requirements.txt
-
-Run the Application: Start the OCR application using:
-
-bash
-
-    python main.py
-
-    Upload Your Document: Access the user interface through your browser and upload your scanned document. Click on "Start OCR" to begin the text recognition process.
+Setting up the Arabic OCR system using Docker offers a streamlined and efficient alternative. Docker encapsulates your application and 
+its dependencies within a container, ensuring consistent environments across different platforms. To begin, ensure you have Docker installed 
+on your machine. You can easily pull the official OCR Docker image from our repository and run it with a single command. 
+This method simplifies the installation process and eases dependency management, allowing you to focus on utilizing the OCR functionality rather 
+than dealing with configuration issues. Docker is particularly beneficial for users seeking a hassle-free setup with easy scalability.
 
 
 ### Performance Metrics
