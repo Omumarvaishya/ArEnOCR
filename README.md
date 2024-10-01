@@ -119,6 +119,7 @@ This method involves manually installing the necessary components and configurin
 You will need to have Python and the required libraries installed on your server. Detailed instructions for installing dependencies 
 and configuring the environment are provided in our documentation. This option is ideal for advanced users who desire greater control 
 over their setup, allowing for customization and optimization based on specific requirements.
+
 For more information, visit instalation [guide](https://docs.google.com/document/d/16foVHJcoe3Fr8KcBwTxgIQtLBjyItLgj/edit).
 
 - **Docker Setup**
@@ -129,8 +130,12 @@ on your machine. You can easily pull the official OCR Docker image from our repo
 This method simplifies the installation process and eases dependency management, allowing you to focus on utilizing the OCR functionality rather 
 than dealing with configuration issues. Docker is particularly beneficial for users seeking a hassle-free setup with easy scalability.
 
+For more information, visit instalation [guide](https://docs.google.com/document/d/16foVHJcoe3Fr8KcBwTxgIQtLBjyItLgj/edit).
+
 
 ### Performance Metrics
+-------
+
 - **Accuracy**
 
     Text Recognition Accuracy: Achieves an impressive accuracy rate of 95%, ensuring trustworthy results across diverse document formats.
