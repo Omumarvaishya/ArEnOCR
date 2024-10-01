@@ -168,7 +168,7 @@ For more information, visit instalation [guide](https://docs.google.com/document
     | Metric                | Value          |
     |-----------------------|----------------|
     | Recognition Accuracy   | 97%            |
-    | Processing Speed       | 2000 characters/sec |
+    | Processing Speed       | 1000 characters/sec |
     | Supported Languages     | Arabic, English |
     | Supported Formats      | JPEG, PNG, bmp, jpeg, PDF |
 
@@ -176,7 +176,11 @@ For more information, visit instalation [guide](https://docs.google.com/document
 - **Speed**
 
     Processing Time: Capable of processing documents containing 1,000 words in just 5 seconds, significantly boosting productivity.
-
+    Refer to test results for more accurate performace analysis of ocr over CPUs and GPUs
+    
+    <div style="text-align: center; background-color: white; padding: 10px;">
+        <img src="/imgs/perf.drawio.png" alt="CPU-Performance" width="800"/>
+    </div>
 
     
 
