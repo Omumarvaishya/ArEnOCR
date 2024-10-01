@@ -16,9 +16,11 @@ The architecture of our Arabic OCR system consists of several key components:
 1. **Input Module**: Handles document formats, pre-processing tasks, and image enhancement.
 2. **OCR Engine**: Utilizes advanced deep learning algorithms for Arabic text recognition, employing convolutional neural networks (CNNs).
 3. **Post-Processing**: Module: Refines OCR output with language processing techniques like spell-checking and contextual correction.
-4. **User Interface**: Intuitive UI for document upload, result viewing, and user interaction, built with modern web technologies.
-**Database Management**: Secure storage of user data, processed documents, and OCR results for efficient retrieval and management.
+4. **User Interface**: Intuitive UI for document upload, result viewing, and user interaction, built with modern web technologies.                                                                                                                                          
+5. **Database Management**: Secure storage of user data, processed documents, and OCR results for efficient retrieval and management.
 6. **API Integration**: Facilitates integration with other applications, enabling a wide range of use cases for document management and data extraction.
+
+For more detailed architecure and app over view please refer to [Documentation](https://docs.google.com/document/d/1nDONcbRd_o0o2B_7mmGKbA6OMx-8L-DBioOv122eSZE/edit#heading=h.gjdgxs)
 
 
 #### Key Features
