@@ -189,8 +189,7 @@ For more information, visit instalation [guide](https://docs.google.com/document
 ### License
 ---
 
-    This project is licensed under the Apache License 2.0. Users are required to provide attribution for any modifications made to the codebase and must seek permission for 
-    any commercial use, ensuring compliance with our licensing terms.
+This project is licensed under the Apache License 2.0. Users are required to provide attribution for any modifications made to the codebase and must seek permission for any commercial use, ensuring compliance with our licensing terms.
 
 
 ### Contact Information
