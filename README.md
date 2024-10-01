@@ -1,10 +1,15 @@
-Arabic Optical Character Recognition (OCR) System
+# Arabic Optical Character Recognition (OCR) System
 
-<!-- Replace with your logo URL -->
-Overview
+![Company Logo](images/logo.png)
 
-The Arabic Optical Character Recognition (OCR) system is a state-of-the-art solution that transforms printed or handwritten Arabic text into digital formats. In today's fast-paced business environment, the ability to convert physical documents into editable and searchable formats is invaluable. Our OCR system is designed to enhance operational efficiency, streamline workflows, and drive innovation across various sectors.
+###Overview
+
+The Arabic Optical Character Recognition (OCR) system is a state-of-the-art solution that transforms printed or handwritten Arabic text into digital formats. 
+In today's fast-paced business environment, the ability to convert physical documents into editable and searchable formats is invaluable. Our OCR system is designed 
+to enhance operational efficiency, streamline workflows, and drive innovation across various sectors.
 Key Features
+
+
 1. High Accuracy and Robust Performance
 
 Our OCR technology employs advanced deep learning algorithms trained on extensive datasets, ensuring exceptional accuracy in recognizing Arabic characters, words, and phrases. This capability minimizes errors, enabling businesses to rely on the system for critical document processing tasks.
