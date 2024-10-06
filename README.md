@@ -196,7 +196,7 @@ This project is licensed under the Apache License 2.0. Users are required to pro
 _____
 For further inquiries, feedback, or support, please contact us at:
 
-    Email: info@astc.com.s
+    Email: info@astc.com.sa
     Website: astc.com.sa
 
 
